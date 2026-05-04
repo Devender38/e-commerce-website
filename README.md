@@ -18,7 +18,7 @@ A basic online shopping website where users can view products, add items to cart
 
 ## How to Run
 
-1. Open browser at `http://127.0.0.1:5000/`
+1. Open browser at https://devender38.github.io/e-commerce-website/
 
 ## Conclusion
 A simple project to learn web development and e-commerce basics.
